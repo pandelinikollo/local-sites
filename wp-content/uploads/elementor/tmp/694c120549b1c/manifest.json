@@ -1,0 +1,1231 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Techova \u2013 IT Solutions & Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Consultation",
+            "screenshot": "screenshots\/metform-consultation.jpg",
+            "source": "templates\/metform-consultation.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/metform-consultation\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Details",
+            "screenshot": "screenshots\/case-details.jpg",
+            "source": "templates\/case-details.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/case-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Studies",
+            "screenshot": "screenshots\/case-studies.jpg",
+            "source": "templates\/case-studies.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/case-studies\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Detail",
+            "screenshot": "screenshots\/services-detail.jpg",
+            "source": "templates\/services-detail.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/services-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Kit for Elementor",
+            "version": "3.0.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "4.0.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.32.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo-1.png",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 9337,
+            "dimensions": [
+                584,
+                134
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-NETQW6K"
+        },
+        {
+            "filename": "business-men-and-women-who-are-working-hard-workin-BRJV5PS.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/business-men-and-women-who-are-working-hard-workin-BRJV5PS-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 156013,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BRJV5PS"
+        },
+        {
+            "filename": "man-in-server-room-ensuring-compliance-with-indust-C6RS8MU.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/man-in-server-room-ensuring-compliance-with-indust-C6RS8MU-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 148938,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-C6RS8MU"
+        },
+        {
+            "filename": "two-young-interracial-colleagues-preparing-present-A7VWHGS.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/two-young-interracial-colleagues-preparing-present-A7VWHGS-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 109817,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-A7VWHGS"
+        },
+        {
+            "filename": "businessperson-of-factory-industry-inspection-and-577NUY9.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/businessperson-of-factory-industry-inspection-and-577NUY9-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 153963,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-577NUY9"
+        },
+        {
+            "filename": "young-woman-setting-up-server-M3J5X2R.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/young-woman-setting-up-server-M3J5X2R-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 195191,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-M3J5X2R"
+        },
+        {
+            "filename": "network-engineer-working-with-server-DE7KUE3-1.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/network-engineer-working-with-server-DE7KUE3-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 202805,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-DE7KUE3"
+        },
+        {
+            "filename": "discussing-data-security-strategies-in-server-room-SLU8VYJ.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/discussing-data-security-strategies-in-server-room-SLU8VYJ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 181172,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-SLU8VYJ"
+        },
+        {
+            "filename": "working-in-data-center-with-advanced-technology-FW7DA26.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/working-in-data-center-with-advanced-technology-FW7DA26-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 153747,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FW7DA26"
+        },
+        {
+            "filename": "data-security-specialists-JWBS7VU.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/data-security-specialists-JWBS7VU-800x536.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 174473,
+            "dimensions": [
+                1920,
+                1286
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JWBS7VU"
+        },
+        {
+            "filename": "i-love-city-living-e1761647012509.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/i-love-city-living-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 122665,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-GAE37VW"
+        },
+        {
+            "filename": "what-just-happened-portrait-of-a-shocked-young-man-against-a-gray-background--e1761647027621.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/what-just-happened-portrait-of-a-shocked-young-man-against-a-gray-background--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 137442,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-A7JWGL6"
+        },
+        {
+            "filename": "smooth-long-brunette-hair-woman-face-close-up-e1761647044862.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/smooth-long-brunette-hair-woman-face-close-up-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 117390,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-WZCZNWV"
+        },
+        {
+            "filename": "portrait-of-middle-aged-man-with-brown-eyes-gray-hair-mimic-wrinkles-on-face-e1761647058448.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/portrait-of-middle-aged-man-with-brown-eyes-gray-hair-mimic-wrinkles-on-face-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 122328,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-9LV3DBW"
+        },
+        {
+            "filename": "i-determine-my-future-cropped-portrait-of-a-young-businessman-wearing-glasses--e1761647071979.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/i-determine-my-future-cropped-portrait-of-a-young-businessman-wearing-glasses--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 90428,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-WD9JS9D"
+        },
+        {
+            "filename": "shes-got-confidence-cropped-portrait-of-a-young-businesswoman-wearing-glasses--e1761647083937.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/shes-got-confidence-cropped-portrait-of-a-young-businesswoman-wearing-glasses--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 91708,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KPF3PEP"
+        },
+        {
+            "filename": "portrait-of-happy-young-man-with-shirt-and-glasses-e1761647095711.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/portrait-of-happy-young-man-with-shirt-and-glasses-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 154607,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BUTVYFP"
+        },
+        {
+            "filename": "woman-closeup-selfie-portrait-and-office-with-smile-hand-and-blurred-background-for-social-media--e1761647109903.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/woman-closeup-selfie-portrait-and-office-with-smile-hand-and-blurred-background-for-social-media--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 85249,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-3CMEAAB"
+        },
+        {
+            "filename": "examining-server-connections-in-data-center-KXXBDHR.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/examining-server-connections-in-data-center-KXXBDHR-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 189856,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KXXBDHR"
+        },
+        {
+            "filename": "data-center-specialist-troubleshooting-mainframes-2G3RJHPD.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/data-center-specialist-troubleshooting-mainframes-2G3RJHPD-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 170726,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-G3RJHPD"
+        },
+        {
+            "filename": "business-men-and-women-who-are-working-hard-workin-AHMRUEF.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/business-men-and-women-who-are-working-hard-workin-AHMRUEF-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 165431,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-AHMRUEF"
+        },
+        {
+            "filename": "Team.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Team-800x782.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 98678,
+            "dimensions": [
+                1000,
+                977
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-URPYBJD"
+        },
+        {
+            "filename": "Team-2.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Team-2-800x782.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 56443,
+            "dimensions": [
+                1000,
+                977
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z95TYFP"
+        },
+        {
+            "filename": "Team-3.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Team-3-800x782.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 50733,
+            "dimensions": [
+                1000,
+                977
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-HTYP6QR"
+        },
+        {
+            "filename": "Team-4.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Team-4-800x782.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 63817,
+            "dimensions": [
+                1000,
+                977
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JANTSSB"
+        },
+        {
+            "filename": "Team-5.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Team-5-800x782.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 61255,
+            "dimensions": [
+                1000,
+                977
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YDA9NVP"
+        },
+        {
+            "filename": "Team-6.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Team-6-800x782.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 88439,
+            "dimensions": [
+                1000,
+                977
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-QTF846S"
+        },
+        {
+            "filename": "girl-as-female-computer-programmer-THLD28S.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/girl-as-female-computer-programmer-THLD28S-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 126352,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-THLD28S"
+        },
+        {
+            "filename": "two-young-it-engineers-discussing-online-data-on-l-X525WGU.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/two-young-it-engineers-discussing-online-data-on-l-X525WGU-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 127290,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-X525WGU"
+        },
+        {
+            "filename": "teamworking-colleagues-monitoring-servers-for-over-CYH6BDN.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/teamworking-colleagues-monitoring-servers-for-over-CYH6BDN-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 198117,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-CYH6BDN"
+        },
+        {
+            "filename": "girl-using-computer-with-mentor-giving-advice-GGNY9A9.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/girl-using-computer-with-mentor-giving-advice-GGNY9A9-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 109701,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-GGNY9A9"
+        },
+        {
+            "filename": "three-young-people-having-meeting-in-cybersecurity-6ZKCMRG.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/three-young-people-having-meeting-in-cybersecurity-6ZKCMRG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 125219,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-6ZKCMRG"
+        },
+        {
+            "filename": "male-network-engineer-in-data-center-FN4PKSN.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/male-network-engineer-in-data-center-FN4PKSN-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 125603,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FN4PKSN"
+        },
+        {
+            "filename": "teamworking-colleagues-in-data-center-using-pc-to-YCYLJGV.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/teamworking-colleagues-in-data-center-using-pc-to-YCYLJGV-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 138755,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YCYLJGV"
+        },
+        {
+            "filename": "two-intercultural-colleagues-interacting-in-front-HM9LKKQ.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/two-intercultural-colleagues-interacting-in-front-HM9LKKQ-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 195508,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-HM9LKKQ"
+        },
+        {
+            "filename": "cropped-shot-of-two-attractive-young-female-comput-5CZT9ZG.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/cropped-shot-of-two-attractive-young-female-comput-5CZT9ZG-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 111453,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5CZT9ZG"
+        },
+        {
+            "filename": "young-smiling-woman-pointing-at-laptop-screen-whil-X2Z4SJX.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/young-smiling-woman-pointing-at-laptop-screen-whil-X2Z4SJX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 173670,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-X2Z4SJX"
+        },
+        {
+            "filename": "software-developers-discussing-code-VMY4NSW.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/software-developers-discussing-code-VMY4NSW-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 184714,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-VMY4NSW"
+        },
+        {
+            "filename": "software-developers-discussing-code-NMYFPAP.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/software-developers-discussing-code-NMYFPAP-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 117517,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-NMYFPAP"
+        },
+        {
+            "filename": "Logo5.png",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Logo5.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1979,
+            "dimensions": [
+                138,
+                30
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/www.untitledui.com\/"
+        },
+        {
+            "filename": "Logo4.png",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Logo4.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1961,
+            "dimensions": [
+                174,
+                30
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/www.untitledui.com\/"
+        },
+        {
+            "filename": "Logo3.png",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Logo3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1613,
+            "dimensions": [
+                184,
+                36
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/www.untitledui.com\/"
+        },
+        {
+            "filename": "Logo2.png",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1715,
+            "dimensions": [
+                183,
+                26
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/www.untitledui.com\/"
+        },
+        {
+            "filename": "Logo1.png",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Logo1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1858,
+            "dimensions": [
+                139,
+                35
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/www.untitledui.com\/"
+        },
+        {
+            "filename": "Logo-2.png",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/Logo-2-800x147.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13395,
+            "dimensions": [
+                909,
+                167
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/www.untitledui.com\/"
+        },
+        {
+            "filename": "software-developers-smile-with-satisfaction-during-GDEBDFG.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/techova\/wp-content\/uploads\/sites\/85\/2025\/10\/software-developers-smile-with-satisfaction-during-GDEBDFG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 78355,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-GDEBDFG"
+        }
+    ]
+}
