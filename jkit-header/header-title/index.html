@@ -57,7 +57,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel="canonical" href="https://elitebytestech.com/jkit-header/header-title/">
 <link rel="shortlink" href="https://elitebytestech.com/?p=295">
 		<style id="wp-custom-css">
-			/* Main wrapper */
+			@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+/* Main wrapper */
 .mf_multiselect__control {
   background-color: #0D2E3D !important;
 }
@@ -163,6 +165,116 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 .jkit-button-wrapper.hover-gradient:hover span {
   text-decoration: none !important;
 }
+/*Customize Formspree*/
+.elite-form {
+  background: linear-gradient(180deg, #0e2533, #081a26);
+  padding: 40px;
+  border-radius: 24px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.elite-form label {
+  color: #ffffff;
+  font-weight: 500;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.elite-form input,
+.elite-form select,
+.elite-form textarea {
+  width: 100%;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(120,200,255,0.4);
+  border-radius: 12px;
+  padding: 16px;
+  color: #fff;
+  font-size: 16px;
+  outline: none;
+}
+
+.elite-form input::placeholder,
+.elite-form textarea::placeholder {
+  color: rgba(255,255,255,0.5);
+}
+
+.elite-form input:focus,
+.elite-form select:focus,
+.elite-form textarea:focus {
+  border-color: #4aa3ff;
+  box-shadow: 0 0 0 2px rgba(74,163,255,0.3);
+}
+
+.elite-form textarea {
+  min-height: 180px;
+  resize: none;
+}
+
+.form-row {
+  display: flex;
+  gap: 20px;
+}
+
+.form-group {
+  margin-bottom: 24px;
+  flex: 1;
+}
+
+.submit-btn {
+	font-family: 'Space Grotesk', sans-serif;
+   background: linear-gradient(
+    160deg,
+    #ffffff 0%,
+    #e9f6ff 5%,
+    #90DBFF 100%
+  ) !important;
+  color: #001018;
+  border: none;
+  padding: 14px 36px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background: #b6dcff;
+}
+
+@media (max-width: 768px) {
+	.submit-btn {
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+	
+  .form-row {
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .form-row .form-group {
+    width: 100%;
+  }
+
+  .elite-form input,
+  .elite-form select,
+  .elite-form textarea {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+/*Customizin Page title  */
+.post-881 .entry-title {
+  font-family: 'Space Grotesk', sans-serif;
+	text-align: center;
+}
+.post-908 .entry-title {
+  font-family: 'Space Grotesk', sans-serif;
+	text-align: center;
+}
+
 
 
 		</style>
@@ -178,7 +290,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				</div>
 				<div class="elementor-element elementor-element-6ea985e7 elementor-widget elementor-widget-jkit_nav_menu" data-id="6ea985e7" data-element_type="widget" data-settings="{&quot;st_menu_item_text_normal_bg_background_background&quot;:&quot;classic&quot;,&quot;st_submenu_item_text_normal_bg_background_background&quot;:&quot;classic&quot;,&quot;st_submenu_item_text_hover_bg_background_background&quot;:&quot;classic&quot;}" data-widget_type="jkit_nav_menu.default">
 				<div class="elementor-widget-container">
-					<div class="jeg-elementor-kit jkit-nav-menu break-point-tablet submenu-click-title jeg_module_295__697695ff1857b" data-item-indicator="&lt;i aria-hidden=&quot;true&quot; class=&quot;jki jki-chevron-down-line&quot;&gt;&lt;/i&gt;"><button aria-label="open-menu" class="jkit-hamburger-menu hover-gradient"><span><i aria-hidden="true" class="jki jki-burger-menu-light"></i></span></button>
+					<div class="jeg-elementor-kit jkit-nav-menu break-point-tablet submenu-click-title jeg_module_295__697e0908d92e0" data-item-indicator="&lt;i aria-hidden=&quot;true&quot; class=&quot;jki jki-chevron-down-line&quot;&gt;&lt;/i&gt;"><button aria-label="open-menu" class="jkit-hamburger-menu hover-gradient"><span><i aria-hidden="true" class="jki jki-burger-menu-light"></i></span></button>
         <div class="jkit-menu-wrapper"><div class="jkit-menu-container"><ul id="menu-main-menu" class="jkit-menu jkit-menu-direction-flex jkit-submenu-position-top"><li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-125"><a href="https://elitebytestech.com/">Home</a></li>
 <li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="https://elitebytestech.com/about/">About</a></li>
 <li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://elitebytestech.com/services/">Services</a></li>
@@ -194,7 +306,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				</div>
 				<div class="elementor-element elementor-element-66469ae0 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-jkit_button" data-id="66469ae0" data-element_type="widget" data-widget_type="jkit_button.default">
 				<div class="elementor-widget-container">
-					<div class="jeg-elementor-kit jkit-button  icon-position-after jeg_module_295_1_697695ff193e1"><a href="" class="jkit-button-wrapper hover-gradient"><span>Consultations</span></a></div>				</div>
+					<div class="jeg-elementor-kit jkit-button  icon-position-after jeg_module_295_1_697e0908d9f71"><a href="" class="jkit-button-wrapper hover-gradient"><span>Consultations</span></a></div>				</div>
 				</div>
 				</div>
 				</div>
@@ -210,12 +322,12 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script src="https://elitebytestech.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.6" id="elementor-frontend-modules-js"></script>
 <script src="https://elitebytestech.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
 <script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.33.6","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"hello-theme-header-footer":true,"e_pro_free_trial_popup":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true},"urls":{"assets":"https:\/\/elitebytestech.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/elitebytestech.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/elitebytestech.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"fc0d1b734e"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":295,"title":"Header%20Title","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.33.6","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"hello-theme-header-footer":true,"e_pro_free_trial_popup":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true},"urls":{"assets":"https:\/\/elitebytestech.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/elitebytestech.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/elitebytestech.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"877149fe19"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":295,"title":"Header%20Title","excerpt":"","featuredImage":false}};
 //# sourceURL=elementor-frontend-js-before
 </script>
 <script src="https://elitebytestech.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.6" id="elementor-frontend-js"></script>
 <script id="elementor-frontend-js-after">
-var jkit_ajax_url = "https://elitebytestech.com/?jkit-ajax-request=jkit_elements", jkit_nonce = "1db1551803";
+var jkit_ajax_url = "https://elitebytestech.com/?jkit-ajax-request=jkit_elements", jkit_nonce = "50856026d7";
 //# sourceURL=elementor-frontend-js-after
 </script>
 <script src="https://elitebytestech.com/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=4.1.0" id="cute-alert-js"></script>
@@ -232,4 +344,4 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 //# sourceURL=https://elitebytestech.com/wp-includes/js/wp-emoji-loader.min.js
 </script>
 	</body>
-</html><!-- Page supported by LiteSpeed Cache 7.7 on 2026-01-25 22:15:27 -->
+</html><!-- Page supported by LiteSpeed Cache 7.7 on 2026-01-31 13:52:08 -->
