@@ -1,0 +1,38 @@
+User-agent: *
+Allow: /
+
+# Block WordPress admin and system files
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+Disallow: /wp-login.php
+Disallow: /thank-you/
+Disallow: /privacy-policy/
+Disallow: /terms-conditions/
+
+# Allow AI crawlers explicitly
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap
+Sitemap: https://elitebytestech.com/sitemap_index.xml
