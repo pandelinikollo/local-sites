@@ -1,4 +1,4 @@
-# EliteBytes Tech
+﻿# EliteBytes Tech
 
 > EliteBytes Tech is a global IT solutions company providing managed IT services, cybersecurity, AI automation, web and mobile app development, Shopify store development, software development, and digital marketing. Based in Tirana, Albania — serving small and medium businesses in the US, UK, Europe, and worldwide.
 
